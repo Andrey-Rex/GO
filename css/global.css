@@ -16,7 +16,7 @@ body {
     font-weight: 400;
     font-size: 20px;
     background-color: #1B1A1B;
-    padding-top: 146px;
+    padding-top: 30px;
 }
 
 section {
@@ -38,7 +38,17 @@ blockquote{
     margin: 0;
     padding: 0;
 }
+fieldset {
+    border: 0 none;
+}
 
+legend {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    margin-bottom: 40px;
+}
 
 img {
     max-width: 100%;

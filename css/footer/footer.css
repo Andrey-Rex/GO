@@ -14,7 +14,7 @@
 .city   {
     padding-left: 60px;
     margin-bottom: 38px;
-    background: url("../footer/location.svg") no-repeat left center;
+    background: url("images/location.svg") no-repeat left center;
     max-width: 300px;
 }
 .address__list-contacts {
@@ -24,12 +24,12 @@
 
 }
 .address__item_type_tel {
-    background: url("../footer/phone-call.svg") no-repeat left center;
+    background: url("images/phone-call.svg") no-repeat left center;
     padding-left: 60px;
 }
 
 .address__item_type_mail{
-    background: url("../footer/envelope.svg") no-repeat left center;
+    background: url("images/envelope.svg") no-repeat left center;
     padding-left: 60px;
 }
 .social__item {

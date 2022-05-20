@@ -39,11 +39,11 @@
   background-size: contain;
 }
 .faq__item:nth-child(even)::after {
-  background-image: url("open.svg");
+  background-image: url("images/open.svg");
 } 
 
 .faq__item:nth-child(odd)::after {
-  background-image: url("open-purple.svg");
+  background-image: url("images/open-purple.svg");
 }
 
 

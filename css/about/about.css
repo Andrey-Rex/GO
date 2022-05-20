@@ -52,14 +52,14 @@
 }
 
 .blockquote__text::before {
-    content: url("../about/cite-before.svg");
+    content: url("images/cite-before.svg");
     position: absolute;
     top: -20px;
     left: -40px;
 }
 
 .blockquote__text::after {
-    content: url("../about/cite-before.svg");
+    content: url("images/cite-before.svg");
     position: absolute;
     transform: rotate(180deg);
     right: 95px;
