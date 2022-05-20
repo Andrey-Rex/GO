@@ -1,0 +1,49 @@
+.section__title {
+    margin-bottom: 40px;
+}
+
+.address{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 39px;
+    font-style: inherit;
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 700;
+}
+.city   {
+    padding-left: 60px;
+    margin-bottom: 38px;
+    background: url("images/location.svg") no-repeat left center;
+    max-width: 300px;
+}
+.address__list-contacts {
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+
+}
+.address__item_type_tel {
+    background: url("images/phone-call.svg") no-repeat left center;
+    padding-left: 60px;
+}
+
+.address__item_type_mail{
+    background: url("images/envelope.svg") no-repeat left center;
+    padding-left: 60px;
+}
+.social__item {
+    display: inline-block;
+    align-content: center;
+    width: 50px;
+    height: 50px;
+    margin-right: 26px;
+
+}
+.social__item:last-child {
+    margin-right: 0;
+}
+.footer {
+    padding-top: 100px;
+    padding-bottom: 83px;
+}
